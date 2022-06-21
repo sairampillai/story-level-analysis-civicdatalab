@@ -1,6 +1,6 @@
 seaborn==0.8.1
 pandas==0.23.0
-numpy==1.14.3
+numpy==1.22.0
 matplotlib==2.2.2
 scikit_learn==0.21.2
 regex==2019.05.25
